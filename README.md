@@ -6,20 +6,14 @@
 
 当设备出现异常或无法正常工作时，用户向智能体描述遇到的问题，询问如何排查和解决。智能体通过对话提供售后诊断与处理建议，帮助用户了解下一步应该怎么做。
 
-
-
 https://github.com/user-attachments/assets/c2ebb05b-bada-459a-8d6c-e4cabd398dca
-
 
 
 ## 场景二：智能体自动下工单
 
 当用户需要售后服务时，可以直接向智能体提出下工单的需求，通过对话完成工单创建，让售后需求进入后续处理流程。
 
-
-
 https://github.com/user-attachments/assets/313b27f1-464b-46dc-b5bf-b5ea25936ab2
-
 
 
 ## 视频文件
